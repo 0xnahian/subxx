@@ -13,7 +13,7 @@ Ensure you have the following tools installed on your system:
 1. **Clone the repository or download the script:**
 
     ```sh
-    git clone https://github.com/mmnahian007/subxx.git
+    git clone https://github.com/0xnahian/subxx.git
     cd subxx
     ```
 
